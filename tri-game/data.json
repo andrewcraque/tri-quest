@@ -1,49 +1,80 @@
 [
     {
-        "1": "Qual comando do Python 3 que realiza para cada lista uma atribuição do elemento corrente à variável definida no comando e executa o bloco de código associado a essa variável disponível?\n\n ?",
-        "2": "Qual comando do Python 3 que realiza para cada lista uma atribuição do elemento corrente à variá",
-        "3": "Qual comando do Python 3 que realiza para cada lista uma atribuição do elemento corrente à variá",
-        "4": "Qual comando do Python 3 que realiza para cada lista uma atribuição do elemento corrente à variá",
-        "5": "Qual comando do Python 3 que realiza para cada lista uma atribuição do elemento corrente à variá",
-        "6": "Qual comando do Python 3 que realiza para cada lista uma atribuição do elemento corrente à variá",
-        "7": "Qual comando do Python 3 que realiza para cada lista uma atribuição do elemento corrente à variá",
-        "8": "Qual comando do Python 3 que realiza para cada lista uma atribuição do elemento corrente à variá",
-        "9": "X",
-        "10":"X",
-        "11":"X",
-        "12":"X",
-        "13":"X",
-        "14":"X",
-        "15":"X",
-        "16":"X",
-        "17":"X",
-        "18":"X",
-        "19":"X",
-        "20":"X",
-        "21":"B",
-        "22":"B",
-        "23":"B",
-        "24":"B",
-        "25":"B",
-        "26":"B",
-        "27":"B",
-        "28":"B",
-        "29":"B",
-        "30":"B",
-        "31":"B",
-        "32":"B",
-        "33":"B",
-        "34":"B",
-        "35":"B",
-        "36":"B",
-        "37":"B",
-        "38":"B",
-        "39":"B",
-        "40":"C"
+        "1": "pergunta ?",
+        "2": "pergunta ?",
+        "3": "pergunta ?",
+        "4": "pergunta ?",
+        "5": "pergunta ?",
+        "6": "pergunta ?",
+        "7": "pergunta ?",
+        "8": "pergunta ?",
+        "9": "pergunta ?",
+        "10":"pergunta ?"
     },
     {
         "1": [
-            "AAAAAAAAAAAAAAAAAAAAAAAA",
+            "alternativas aqui",
+            "",
+            "",
+            ""
+        ],
+        "2": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "3": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "4": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "5": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "6": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "7": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "8": [
+            "perl",
+            "css",
+            "python",
+            "java"
+        ],
+        "9": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "10": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    }
+]
+
             "AAAAAAAAAAAAAAAAAAAAAAAA",
             "AAAAAAAAAAAAAAAAAAAAAAAA",
             "AAAAAAAAAAAAAAAAAAAAAAAA"
